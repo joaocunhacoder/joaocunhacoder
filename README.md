@@ -1,11 +1,47 @@
-Hi 👋 My name is João Cunha
-===========================
+<h1 align="center">👋 Olá, eu sou o João Cunha</h1>
 
-Software Engineer & Web Developer
----------------------------------
+<h3 align="center">Software Engineer & Web Developer</h3>
 
-Sou programador com três anos de experiência, especializado no desenvolvimento de aplicações e interfaces utilizando tecnologias como HTML, CSS, C, C# e SQL. Tenho competências avançadas na utilização dos ambientes de desenvolvimento Visual Studio e Visual Studio Code, o que me permite criar soluções eficientes tanto para projetos web como para aplicações desktop. Possuo uma sólida formação em lógica de programação e estruturas de dados, aliada a um forte compromisso com a aprendizagem contínua e a atualização face às melhores práticas e tendências do setor. Demonstro elevado rigor na resolução de problemas, capacidade de adaptação e foco na qualidade do código desenvolvido.
+---
 
-*   🌍  I'm based in Lisbon
-*   ✉️  You can contact me at [jjoao.manuel.cunha2008@gmail.com](mailto:jjoao.manuel.cunha2008@gmail.com)
-*   🧠  I'm learning C# .NET Framework
+🎯 Programador com **3 anos de experiência**, especializado no desenvolvimento de **aplicações web e desktop** utilizando:
+
+- 🧩 **HTML, CSS, C, C# e SQL**
+- 🛠️ **Visual Studio** e **Visual Studio Code**
+
+Tenho uma base sólida em **lógica de programação** e **estruturas de dados**, com forte compromisso com a aprendizagem contínua e as boas práticas do setor. Prezo pela **qualidade do código**, pela **eficiência das soluções** e pela capacidade de adaptação a diferentes desafios técnicos.
+
+---
+
+### 📫 Contacto
+
+- 🌍 Baseado em: **Lisboa, Portugal**
+- 📧 Email: [jjoao.manuel.cunha2008@gmail.com](mailto:jjoao.manuel.cunha2008@gmail.com)
+
+---
+
+### 🚀 Atualmente a aprender
+
+- 🧠 **C# .NET Framework**
+
+---
+
+### 💼 Interesses profissionais
+
+- Desenvolvimento Web & Desktop  
+- Engenharia de Software  
+- Bases de Dados  
+- Projetos Open Source  
+- Aprendizagem contínua
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,c,cs,sql,visualstudio,vscode,github" alt="Tech Stack Icons" />
+</p>
+
+---
+
+<p align="center">
+  Obrigado por visitar o meu perfil! 👨‍💻 Sinta-se à vontade para explorar os meus repositórios ou entrar em contacto.
+</p>
