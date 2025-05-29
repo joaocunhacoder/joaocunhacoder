@@ -1,47 +1,50 @@
-<h1 align="center">👋 Olá, eu sou o João Cunha</h1>
+# 👋 Hi, I'm João Cunha
 
-<h3 align="center">Software Engineer & Web Developer</h3>
+## Software Engineer & Web Developer
 
----
+🎯 I'm a programmer with **3 years of experience**, specialized in developing **web and desktop applications** using:
 
-🎯 Programador com **3 anos de experiência**, especializado no desenvolvimento de **aplicações web e desktop** utilizando:
+- 🧩 **HTML, CSS, C, C#, and SQL**
+- 🛠️ **Visual Studio** and **Visual Studio Code**
 
-- 🧩 **HTML, CSS, C, C# e SQL**
-- 🛠️ **Visual Studio** e **Visual Studio Code**
-
-Tenho uma base sólida em **lógica de programação** e **estruturas de dados**, com forte compromisso com a aprendizagem contínua e as boas práticas do setor. Prezo pela **qualidade do código**, pela **eficiência das soluções** e pela capacidade de adaptação a diferentes desafios técnicos.
+I have a solid foundation in **programming logic** and **data structures**, combined with a strong commitment to continuous learning and adherence to industry best practices. I strive for **code quality**, **efficient solutions**, and the **ability to adapt** to various technical challenges.
 
 ---
 
-### 📫 Contacto
+## 📫 Contact
 
-- 🌍 Baseado em: **Lisboa, Portugal**
+- 🌍 Based in: **Lisbon, Portugal**  
 - 📧 Email: [jjoao.manuel.cunha2008@gmail.com](mailto:jjoao.manuel.cunha2008@gmail.com)
 
 ---
 
-### 🚀 Atualmente a aprender
+## 🚀 Currently Learning
 
 - 🧠 **C# .NET Framework**
 
 ---
 
-### 💼 Interesses profissionais
+## 💼 Professional Interests
 
-- Desenvolvimento Web & Desktop  
-- Engenharia de Software  
-- Bases de Dados  
-- Projetos Open Source  
-- Aprendizagem contínua
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,c,cs,sql,visualstudio,vscode,github" alt="Tech Stack Icons" />
-</p>
+- Web & Desktop Development  
+- Software Engineering  
+- Databases  
+- Open Source Projects  
+- Continuous Learning
 
 ---
 
-<p align="center">
-  Obrigado por visitar o meu perfil! 👨‍💻 Sinta-se à vontade para explorar os meus repositórios ou entrar em contacto.
-</p>
+## 🧰 Tech & Tools
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![C](https://skillicons.dev/icons?i=c)
+![C#](https://skillicons.dev/icons?i=cs)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+---
+
+Thanks for visiting my profile! 👨‍💻 Feel free to explore my repositories or get in touch.
